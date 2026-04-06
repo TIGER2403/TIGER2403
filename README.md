@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+<img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
 
 <h1 align="center">Hi 👋, I'm Himanshu Srivastava</h1>
 
