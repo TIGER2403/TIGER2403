@@ -1,16 +1,64 @@
-## Hi there 👋
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
 
-<!--
-**TIGER2403/TIGER2403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Himanshu Srivastava</h1>
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;Full+Stack+Developer;Data+Science+Enthusiast;Always+Learning+New+Things">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile views](https://komarev.com/ghpvc/?username=TIGER2403&color=blue)
+
+---
+
+## 🚀 About Me
+
+🎓 B.Tech in Computer Science & Engineering  
+🏫 IILM University, Greater Noida  
+
+💻 I love building real-world projects  
+🌱 Currently improving my development skills  
+🤝 Open to collaborations  
+
+---
+
+## 💡 Technical Skills
+
+### 🌐 Web Development
+- Frontend (HTML, CSS, JavaScript)  
+- Backend Development  
+
+### 🗄️ Database
+- SQL
+- MongoDB  
+
+### 📊 Data Science
+- Data Science with Python  
+
+---
+
+## 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Python](https://img.shields.io/badge/Python-green)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TIGER2403&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TIGER2403&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: himanshusrivastava0024@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/himanshu-srivastava2403
+---
+
+✨ *"Code. Learn. Build. Repeat."*
