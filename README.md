@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Himanshu Srivastava</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;Full+Stack+Developer;Data+Science+Enthusiast;Always+Learning+New+Things">
+<img src="https://readme-typing-svg.herokuapp.com?color=#000000&size=25&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;Full+Stack+Developer;Data+Science+Enthusiast;Always+Learning+New+Things">
 
-![Profile views](https://komarev.com/ghpvc/?username=TIGER2403&color=Black)
+![Profile views](https://komarev.com/ghpvc/?username=TIGER2403&color=blue)
 
 ---
 
