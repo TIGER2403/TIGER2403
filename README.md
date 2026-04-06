@@ -53,8 +53,10 @@ I build responsive web apps using React, Next.js & Node.js — and explore **Mac
 
 ## GitHub Stats
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TIGER2403&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIGER2403&layout=compact&theme=tokyonight&hide_border=true" />
+  
+  <img height="160" src="https://github-readme-stats.vercel.app/api?jjusername=TIGER2403&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIGER2403&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </div>
 
 ---
