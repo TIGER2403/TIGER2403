@@ -67,7 +67,7 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/himanshu-srivastava2403)
+- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-srivastava2403/)
 - 📧 Email: [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:himanshusrivastava0024@gmail.com)
 ---
 
