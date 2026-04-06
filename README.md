@@ -34,31 +34,34 @@
 
 ---
 
-## 🛠️ Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![Python](https://img.shields.io/badge/Python-green)
-![SQL](https://img.shields.io/badge/SQL-lightgrey)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
+## 💻 Tech Stack
 
-### ☁️ Deployment & Hosting
-![Vercel](https://img.shields.io/badge/Vercel-black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7)
-![Render](https://img.shields.io/badge/Render-purple)
----
+### 🧠 Languages
+![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-green?logo=python&logoColor=white)
 
-## 📈 GitHub Stats
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-black?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TIGER2403&show_icons=true&theme=tokyonight)
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
 
----
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white)
 
-## 🔥 Streak Stats
+### ☁️ Hosting / Deployment
+![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-purple?logo=render&logoColor=white)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TIGER2403&theme=tokyonight)
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=whit
 
 ---
 
