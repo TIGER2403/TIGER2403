@@ -61,13 +61,14 @@
 ![Render](https://img.shields.io/badge/Render-purple?logo=render&logoColor=white)
 
 ### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=whit
+![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: himanshusrivastava0024@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/himanshu-srivastava2403
+- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/himanshu-srivastava2403)
+- 📧 Email: [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:himanshusrivastava0024@gmail.com)
 ---
 
 ✨ *"Code. Learn. Build. Repeat."*
